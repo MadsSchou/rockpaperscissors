@@ -5,7 +5,9 @@
 // const player1 = document.querySelector("#player1");
 // const player2 = document.querySelector("#player2");
 
-// player1.classList.add("shake");
+// document.querySelector.("player1").classList.add("shake");
+// document.querySelector.("player2").classList.add("shake");
+
 // player2.classList.add("shake");
 
 /*Spil Sten saks papir */
