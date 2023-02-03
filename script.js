@@ -9,8 +9,8 @@
 // player2.classList.add("shake");
 
 /*Spil Sten saks papir */
-function spil(choice) {
-  console.log(spil);
+function play(choice) {
+  console.log(play);
 
   var player1 = document.getElementById("player1");
   var player2 = document.getElementById("player2");
